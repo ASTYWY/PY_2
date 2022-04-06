@@ -1,5 +1,5 @@
-x = int(input("Eter x: "))
-y = int(input("Enter: "))
+x = int(input("значения x: "))
+y = int(input("значения y: "))
 
 max_1 = 0 # max^2(x^2y, xy^2)
 min_2 = 0 # min^2(x-y, x+2y)
